@@ -1,13 +1,19 @@
 ---
-title: "How to build an Application with modern Technology"
-meta_title: ""
+title: "John Doe"
+meta_title: "johndoe"
 description: "this is meta description"
 date: 2022-04-04T05:00:00Z
 image: "/images/image-placeholder.png"
-categories: ["Application", "Data"]
-author: "John Doe"
-tags: ["nextjs", "tailwind"]
+categories: ["Community"]
+author: "Rae J"
+tags: ["storytelling", "space-making"]
 draft: false
+
+contact: ["name@gmail.com"]
+url: "www.thaumazo.org"
+roles: ["liaising"]
+communities: ["ParTecK", "Atelier"]
+projects: ["ParTecK Retreat 2024", "One Caring Human Website"]
 ---
 
 Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
